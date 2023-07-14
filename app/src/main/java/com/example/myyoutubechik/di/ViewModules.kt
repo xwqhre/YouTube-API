@@ -1,0 +1,1 @@
+package com.example.myyoutubechik.diimport com.example.myyoutubechik.ui.MainViewModelimport org.koin.androidx.viewmodel.dsl.viewModelimport org.koin.dsl.moduleval viewModules = module {    viewModel { MainViewModel(get()) }}

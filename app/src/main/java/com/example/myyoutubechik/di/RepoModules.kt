@@ -1,0 +1,1 @@
+package com.example.myyoutubechik.diimport com.example.myyoutubechik.repositories.Repositoryimport org.koin.dsl.moduleval repoModules = module {    single { Repository(get()) }}
